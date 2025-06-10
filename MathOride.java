@@ -1,4 +1,4 @@
-import java.util.*
+import java.util.*;
 class calc
 {
     int a,b;
@@ -10,7 +10,7 @@ class calc
     void calculate()
     {
         int sum=a+b;
-        System.out.println("Sum from parent: "+sum);
+        System.out.println("Sum : "+sum);
     }
 }
 //class extra
